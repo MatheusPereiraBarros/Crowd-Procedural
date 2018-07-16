@@ -12,7 +12,7 @@ Sick of placing buildings side-by-side in your game scene ? take too much time f
 You will see how's crowd building cites even with it's repeatable props like lighting poles , streets and even trash in adjacent-regular way with it's unique methods 
 
 **Whatch the asset trailler now!**
-[![Crowd Trailer](https://img.youtube.com/vi/OJjltELFQ40/0.jpg)](https://www.youtube.com/watch?v=OJjltELFQ40)
+[![Crowd Trailer](https://share.gifyoutube.com/vi/OJjltELFQ40/0.jpg)](https://www.youtube.com/watch?v=OJjltELFQ40)
 
 learn more ? you can read the documentation from here
 

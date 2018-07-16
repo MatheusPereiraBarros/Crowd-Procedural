@@ -4,13 +4,15 @@ Sick of placing buildings side-by-side in your game scene ? take too much time f
 >Crowd Procedural system, is an Open Source asset which is the best choice for level designers who is looking for a fast,easy way to create cities and trash with few steps using your own models and ability to use the asset's model combiner !
 
 **Here you can get three assets in one**
-```
-procedural building
-procedural trash 
-and ability to use the model combiner of the asset
-```
+
+- Procedural building
+- Procedural trash 
+- Ability to use the model combiner of the asset
 
 You will see how's crowd building cites even with it's repeatable props like lighting poles , streets and even trash in adjacent-regular way with it's unique methods 
+
+**Whatch the asset trailler now!**
+[![Crowd Trailer](https://img.youtube.com/vi/OJjltELFQ40/0.jpg)](https://www.youtube.com/watch?v=OJjltELFQ40)
 
 learn more ? you can read the documentation from here
 
